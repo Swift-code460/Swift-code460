@@ -22,7 +22,7 @@ I am a self-taught Frontend web developer and Aspiring Fullstack web developer, 
 <a target="_blank"> <img src="https://camo.githubusercontent.com/92dde1e7c42c013a5fce4dfeee0843f06710bfd38a610885e33a273c7eca0d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465"> </a> </p>
 
 ## My Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahm-tech&show_icons=true&theme=gruvbox&title_color=0000ff&text_color=ffffff&bg_color=ff7c00&locale=en&layout=compact" alt="ahm-tech" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Swift-code460&show_icons=true&theme=gruvbox&title_color=0000ff&text_color=ffffff&bg_color=ff7c00&locale=en&layout=compact" alt="ahm-tech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahm-tech&show_icons=true&theme=cobalt&title_color=00ffff&bg_color=7910ba&locale=en" alt="ahm-tech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swift-code460&show_icons=true&theme=cobalt&title_color=00ffff&bg_color=7910ba&locale=en" alt="ahm-tech" /></p>
 
